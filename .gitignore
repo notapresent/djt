@@ -2,3 +2,4 @@
 .codio
 .settings
 .venv
+__pycache__
